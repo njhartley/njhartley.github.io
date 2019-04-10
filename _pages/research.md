@@ -15,7 +15,7 @@ Shock-Compression of Light Elements
 
 <figure>
   <img style="padding: 0 15px" align="left" src="https://njhartley.github.io/images/diamond_rain.png" width="400" />
-  <figcaption><i>(Greg Stewart/[SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/news/2017-08-21-scientists-create-diamond-rain-forms-interior-icy-giant-planets.aspx)</i></figcaption>
+  <figcaption><i>(Greg Stewart/<a href="https://www6.slac.stanford.edu/news/2017-08-21-scientists-create-diamond-rain-forms-interior-icy-giant-planets.aspx">SLAC National Accelerator Laboratory</a></i></figcaption>
 </figure> 
 
 
