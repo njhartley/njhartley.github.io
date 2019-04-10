@@ -20,6 +20,8 @@ This work aims to study materials at conditions similar to those present inside 
 Ultrafast X-ray Heating
 ======
 
+<div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/silicon_target.png" alt="alternate text" width="400" style="padding-bottom:0.5em;" /></div>
+
 <img style="padding: 0 15px" align="left" src="https://njhartley.github.io/images/silicon_target.png" width="400" />
 
 Due to their intensity, the same pulses that are used to probe samples above can themselves be used to heat samples. Unlike most heating methods, using laser or particle irradiation, this is both very fast, limited only by the duration of the pulse, and heats all the way through the target. By using high energy X-rays, materials go from ambient conditions to highly ionized within only a few tens of femtoseconds, giving the ions no time to equilibrate. The subsequent evolution is almost impossible to predict using current methods, and we are working on understanding it better.
