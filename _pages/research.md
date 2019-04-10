@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /researching/
 title: "Research Areas"
 excerpt: "Research"
 author_profile: true
