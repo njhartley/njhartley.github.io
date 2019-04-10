@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+title: "Evidence for Crystalline Structure in Dynamically-Compressed Polyethylene up to 200 GPa"
+permalink: /publication/2019-01-scientific-reports
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 20019-01
+venue: 'Scientific Reports'
+paperurl: 'https://www.nature.com/articles/s41598-019-40782-5'
+citation: 'N.J. Hartley et al. &quot;Evidence for Crystalline Structure in Dynamically-Compressed Polyethylene up to 200 GPa.&quot; <i>Scientific Reports</i> 9 (2019) 4196.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
