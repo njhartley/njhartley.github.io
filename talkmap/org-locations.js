@@ -53,7 +53,7 @@ var addressPoints = [
 	-1.257778
   ],
   [
-	Stanford, CA",
+	"Stanford, CA",
 	37.424107, 
 	-122.166077
   ]
