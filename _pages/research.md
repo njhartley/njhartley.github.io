@@ -13,14 +13,9 @@ My research includes a variety of topics under the broad heading of 'High Energy
 Shock-Compression of Light Elements
 ======
 
+<div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/diamond_rain.png" alt="alternate text" width="400" style="padding-bottom:0.5em;" /><i>(Greg Stewart/<a href="https://www6.slac.stanford.edu/news/2017-08-21-scientists-create-diamond-rain-forms-interior-icy-giant-planets.aspx">SLAC National Accelerator Laboratory</a>)</i></div>
+
 This work aims to study materials at conditions similar to those present inside giant planets. This is achieved by using a large laser system to shock the target, which both heats and compresses it to the relevant condition, then probing it using X-rays. The best results come from X-ray Free Electron Laser (XFEL) facilities such as [LCLS](https://lcls.slac.stanford.edu/) or [SACLA](http://xfel.riken.jp/eng/), which can deliver extremely bright pulses on incredibly short timescales.
-
-<figure>
-  <img style="padding: 0 15px" align="left" src="https://njhartley.github.io/images/diamond_rain.png" width="400" />
-  <figcaption><i>(Greg Stewart/<a href="https://www6.slac.stanford.edu/news/2017-08-21-scientists-create-diamond-rain-forms-interior-icy-giant-planets.aspx">SLAC National Accelerator Laboratory</a>)</i></figcaption>
-</figure> 
-
-
 
 Ultrafast X-ray Heating
 ======
