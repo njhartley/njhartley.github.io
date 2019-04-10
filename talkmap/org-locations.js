@@ -23,4 +23,18 @@ var addressPoints = [
 	"Edinurgh, UK",
 	55.953, 
 	-3.189]
+  [
+	"Poznan, Poland",
+	52.409538,
+	16.931992]
+  [
+	"New Orleans, LA",
+		29.951065,
+		-90.071533]
+  ["Shanghai, China",
+	31.267401,
+	121.522179]
+  ["Mianyang, China",
+	31.468, 
+	104.679]
 ];
