@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. N. J. Hartley"
+title: "Nicholas J. Hartley"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
