@@ -51,5 +51,9 @@ var addressPoints = [
 	"Oxford, UK",
 	51.751944, 
 	-1.257778
+  ],
+  [
+	Stanford, CA",
+	37.424107, -122.166077
   ]
 ];

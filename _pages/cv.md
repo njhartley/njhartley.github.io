@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSci <span>Physics with Theoretical Physics</span>, **Imperial College London** 2010
+* PGCE <span>Science (Physics)</span>, **Institute of Education** 2011
+* DPhil <span> Atomic and Laser Physics </span> **University of Oxford** 2014
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2016 - Present : Postdoctoral Researcher
+  * Institute of Radiation Physics, HZDR
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2015 - Present: Specially Appointed Assistant Professor
+  * Open and Transdisciplinary Research Institute, Osaka University
+
+* Feb 2012 - Jun 2015: DPhil, University of Oxford  
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+\section{Practical Experience}
+
+* **XRD**: Used X-ray diffraction with ordered (crysalline) and amorphous (plastic) samples, looking at changes in material properties and the formation of new structures under shock compression and heating; previously used diffraction as an ion temperature diagnostic in experiments at Titan and Phelix
+* **XRTS**: Carried out analysis of XRTS data from LCLS experiments, including spatially- and energy-resolved spectra; looked at characteristic state features in data on an experiment studying high pressure phase transitions
+* **Analysis/Modelling: Modelled and analyzed data using techniques such as radiation hydrodynamics, XRTS codes, molecular dynamics and density functional theory as well as home-built simulations and codes
+* **Optical**: Installed Visar and streaked optical pyrometry diagnostics at the SACLA XFEL facility; previously deployed an SOP on the Titan laser for electron temperature diagnosis
+* **Management**: & Led multiple beamtimes as PI at SACLA, worked as co-PI for an LCLS beamtime and ran an experiment at the Titan laser facility 
 
 Publications
 ======

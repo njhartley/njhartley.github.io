@@ -10,4 +10,4 @@ redirect_from:
 
 I'm a postdoctoral researcher working in the field of High Energy Density Physics (HEDP). Since completing my DPhil in the UK, I've worked at Osaka University and am now based at the Helmholtz Centre in Dresden, Germany.
 
-You can learn more about my current work on the [eesearch](https://njhartley.github.io/research/) tab, or see my latest [publications](https://njhartley.github.io/publications/). If you want to ask for any of the non-open-access papers, feel free to drop me an email.
+You can learn more about my current work on the [research](https://njhartley.github.io/research/) tab, or see my latest [publications](https://njhartley.github.io/publications/). If you want a copy of any of the non-open-access papers, feel free to drop me an email.
