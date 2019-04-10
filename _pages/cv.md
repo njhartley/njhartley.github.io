@@ -33,7 +33,7 @@ Research experience
 	* Specializing in laser-solid interactions and warm dense matter research
 	* Led a multinational team in carrying out a 5-week experiment on the Titan laser facility, LLNL, probing temperature relaxation in proton-heated tantalum
 	* Analyzed X-ray diffraction (image plate), proton spectrometry and optical pyrometry data, with a paper on the results published in HEDP 
-	* ll{Participated in some of the first experiments at LCLS, using diffraction and ultrahigh resolution scattering to probe laser shock compressed samples
+	* Participated in some of the first experiments at LCLS, using diffraction and ultrahigh resolution scattering to probe laser shock compressed samples
   
 Practical Skills
 ======
@@ -42,7 +42,7 @@ Practical Skills
 * **XRTS**: Carried out analysis of XRTS data from LCLS experiments, including spatially- and energy-resolved spectra; looked at characteristic state features in data on an experiment studying high pressure phase transitions
 * **Analysis/Modelling**: Modelled and analyzed data using techniques such as radiation hydrodynamics, XRTS codes, molecular dynamics and density functional theory as well as home-built simulations and codes
 * **Optical**: Installed Visar and streaked optical pyrometry diagnostics at the SACLA XFEL facility; previously deployed an SOP on the Titan laser for electron temperature diagnosis
-* **Management**: & Led multiple beamtimes as PI at SACLA, worked as co-PI for an LCLS beamtime and ran an experiment at the Titan laser facility 
+* **Management**: Led multiple beamtimes as PI at SACLA, worked as co-PI for an LCLS beamtime and ran an experiment at the Titan laser facility 
 
 Publications
 ======
