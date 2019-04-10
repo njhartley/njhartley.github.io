@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Testing"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "N. J. Hartley"
 description              : &description "Postdoctoral Researcher"
