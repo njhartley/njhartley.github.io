@@ -13,7 +13,7 @@ My research includes a variety of topics under the broad heading of 'High Energy
 Shock-Compression of Light Elements
 ======
 
-![Diamond Rain Formation Inside Giant Planets](https://njhartley.github.io/images/diamond_rain.png "Logo Title Text 1")
+![Diamond Rain Formation Inside Giant Planets](https://njhartley.github.io/images/diamond_rain.jpg "Logo Title Text 1")
 
 This work aims to study materials at conditions similar to those present inside giant planets. This is achieved by using a large laser system to shock the target, which both heats and compresses it to the relevant condition, then probing it using X-rays. The best results come from X-ray Free Electron Laser (XFEL) facilities such as [LCLS](https://lcls.slac.stanford.edu/) or [SACLA](http://xfel.riken.jp/eng/), which can deliver extremely bright pulses on incredibly short timescales.
 
