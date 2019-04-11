@@ -13,7 +13,7 @@ My research includes a variety of topics under the broad heading of 'High Energy
 Shock-Compression of Light Elements
 ======
 
-<div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/image_diamond_rain.PNG" alt="Diamond rain in the interior of giant planets" width="400" style="padding-bottom:0.5em;" /><br><i>(Greg Stewart/<a href="https://www6.slac.stanford.edu/news/2017-08-21-scientists-create-diamond-rain-forms-interior-icy-giant-planets.aspx">SLAC National Accelerator Laboratory</a>)</i></div>
+<div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/image_diamond_rain.PNG" alt="Diamond rain in the interior of giant planets" width="400" style="padding-bottom:0.5em;" /><br><i>(G. Stewart/<a href="https://www6.slac.stanford.edu/news/2017-08-21-scientists-create-diamond-rain-forms-interior-icy-giant-planets.aspx">SLAC National Accelerator Laboratory</a>)</i></div>
 
 <br>This work aims to study materials at conditions similar to those present inside giant planets. This is achieved by using a large laser system to shock the target, which both heats and compresses it to the relevant condition, then probing it using X-rays. The best results come from X-ray Free Electron Laser (XFEL) facilities such as [LCLS](https://lcls.slac.stanford.edu/) or [SACLA](http://xfel.riken.jp/eng/), which can deliver extremely bright pulses on incredibly short timescales.
 
@@ -27,7 +27,7 @@ Ultrafast X-ray Heating
 Compuational Modelling
 ======
 
-<div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/image_A2m.png" alt="Simulated hydrocarbon structure" width="400" style="padding-bottom:0.5em;" /><br>Simluated electron probability distribution around atoms of carbon (orange) and hydrogen (grey), for a stable hydrocarbon structure at around 200 gigapascals (around 2 million times atmospheric pressure). Source: <i>J. Vorberger (HZDR)</i> </div>
+<div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/image_A2m.png" alt="Simulated hydrocarbon structure" width="400" style="padding-bottom:0.5em;" /><br><i>(J. Vorberger/<a href="https://www.hzdr.de/db/Cms?pOid=57769&pNid=3438">HZDR</a>)</i> </div>
 
 <br>Alongside practical work, and together with my colleagues, I work on predicting the conditions and behaviour of the materials in the experiments. By comparing the experimental data with simulated results, we are able to both improve our models, and understand more about the material than can be directly observed.
 
