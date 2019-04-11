@@ -14,7 +14,7 @@ Shock Breakout in Graphite
 
 <div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/17153.gif" alt="alternate text" width="400" /><br></div>
 
-Data taken at the [PHELIX](https://www.gsi.de/work/forschung/appamml/plasmaphysikphelix/phelix.htm) laser, at GSI in Darmstadt.
+<br> Data taken at the [PHELIX](https://www.gsi.de/work/forschung/appamml/plasmaphysikphelix/phelix.htm) laser, at GSI in Darmstadt.
 
 
 
