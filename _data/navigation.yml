@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Research"
-    url: /rs/
+  - title: "Shock Compression"
+    url: /shocks/
+    
+  - title: "Ultrafast Heating"
+    url: /ultrafast/
 
   - title: "Publications"
     url: /publications/  
