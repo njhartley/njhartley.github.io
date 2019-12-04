@@ -17,7 +17,7 @@ redirect_from:
 ## Compuational Modelling
 ======
 
-<div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/image_ultrafast_theory.png" alt="Graphite Structure Evolution" width="400" style="padding-bottom:0.5em;" /><br><i>(N. Medvedeb/<a href="https://www.fzu.cz/en/oddeleni/oddeleni-radiacni-a-chemicke-fyziky/nikita-medvedev-msc-phd">FZU</a>)</i> </div>
+<div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/image_ultrafast_theory.PNG" alt="Graphite Structure Evolution" width="400" style="padding-bottom:0.5em;" /><br><i>(N. Medvedev/<a href="https://www.fzu.cz/en/oddeleni/oddeleni-radiacni-a-chemicke-fyziky/nikita-medvedev-msc-phd">FZU</a>)</i> </div>
 
 <br>Using the hybrid simulation code[XTANT](https://www.researchgate.net/publication/326676546_XTANT_X-ray-induced_Thermal_And_Nonthermal_Transitions_modelled_with_a_hybrid_approach?channel=doi&linkId=5b5d9f42458515c4b2510fb2&showFulltext=true), we can simulate the evolution of atomic positions and structure after heating by the X-rays. The results of this are compared to those we get in the experiment, allowing us to both understand what leads to the data we see, and further fine-tune the models.
 
