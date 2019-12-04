@@ -29,7 +29,7 @@ Research experience
 	* Published a paper on ultrafast laser-matter interaction probed by XFEL diffraction, as well as contributing to analysis for several other publications
 	* Awarded  ¥3M over 3 years through Kakenhi Grant-in-Aid for Young Scientists, for research on warm dense carbon
 
-* Feb 2012 - Jun 2015: DPhil Atomic and Laser Physics ([University of Oxford]( http://www.ox.ac.uk/ ))
+* Feb 2012 - Jun 2015: DPhil Atomic and Laser Physics ([University of Oxford]( http://www2.physics.ox.ac.uk/ ))
 	* Specializing in laser-solid interactions and warm dense matter research
 	* Led a multinational team in carrying out a 5-week experiment on the Titan laser facility, LLNL, probing temperature relaxation in proton-heated tantalum
 	* Analyzed X-ray diffraction (image plate), proton spectrometry and optical pyrometry data, with a paper on the results published in HEDP 
