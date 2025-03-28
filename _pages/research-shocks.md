@@ -18,7 +18,7 @@ redirect_from:
 <br>Using a large laser system, we can drive samples to the same conditions that exist inside giant planets. The laser pulses  shock the target, which both heats and compresses it to the relevant condition, then probing it using X-rays. The best results come from X-ray Free Electron Laser (XFEL) facilities such as [LCLS](https://lcls.slac.stanford.edu/) or [SACLA](http://xfel.riken.jp/eng/), which can deliver extremely bright pulses on incredibly short timescales.
 
 
-## Compuational Modelling
+## Computational Modelling
 ======
 
 <div style="width:400 px; font-size:80%; text-align:center;"><img src="https://njhartley.github.io/images/image_A2m.png" alt="Simulated hydrocarbon structure" width="400" style="padding-bottom:0.5em;" />
